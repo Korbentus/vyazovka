@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1">
+  <input tile5url="images/panorama vyazovka_o_5.jpg" prev2url="images/panorama vyazovka_o_preview_2.jpg" prev1url="images/panorama vyazovka_o_preview_1.jpg" prev3url="images/panorama vyazovka_o_preview_3.jpg" tile2url="images/panorama vyazovka_o_2.jpg" tile3url="images/panorama vyazovka_o_3.jpg" tilesize="685" prev4url="images/panorama vyazovka_o_preview_4.jpg" levelingpitch="0" prev0url="images/panorama vyazovka_o_preview_0.jpg" levelingroll="0" tile0url="images/panorama vyazovka_o_0.jpg" tile1url="images/panorama vyazovka_o_1.jpg" tile4url="images/panorama vyazovka_o_4.jpg" tilescale="1.014599" prev5url="images/panorama vyazovka_o_preview_5.jpg">
+    <preview color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" pan="0" tilt="0"/>
+    <min fov="5" pan="0" tilt="-90"/>
+    <max fov="120" pan="360" tilt="90"/>
+  </view>
+  <userdata title="" comment="" description="" longitude="" tags="lumion" datetime="" source="" author="" info="" copyright="" latitude=""/>
+  <hotspots wordwrap="1" height="20" width="180">
+    <label borderradius="1" bordercolor="0x000000" enabled="1" wordwrap="1" height="20" borderalpha="1" border="1" backgroundalpha="1" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1"/>
+    <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+  </hotspots>
+  <media>
+    <lensflare blinding="50" type="1" id="Lensflare01" pan="124.92" tilt="54.41" color="0xffffff" alpha="80"/>
+    <lensflare blinding="50" type="1" id="Lensflare02" pan="62.1" tilt="57.47" color="0xffffff" alpha="80"/>
+    <lensflare blinding="50" type="1" id="Lensflare03" pan="-18.91" tilt="58.53" color="0xffffff" alpha="80"/>
+    <lensflare blinding="50" type="1" id="Lensflare04" pan="-78.7" tilt="57.84" color="0xffffff" alpha="80"/>
+  </media>
+  <transition zoomoutpause="1" type="crossdissolve" zoomin="0" zoomspeed="2" blendcolor="0x000000" enabled="0" softedge="0" zoomfov="20" zoomout="0" blendtime="1"/>
+  <control contextfullscreen="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedmouse="0"/>
+</panorama>
